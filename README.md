@@ -1,0 +1,2 @@
+# puyopuyo-mieru-ncurses
+mieruEMBで動くぷよぷよをncursesで動くようにしたもの
